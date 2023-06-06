@@ -1,0 +1,69 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.1095" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/bottom_nav_tab_color_selector.xml" value="0.1095" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/conifer_page_not_found_1.xml" value="0.1045" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/gradient1.xml" value="0.186" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/gradient2.xml" value="0.186" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/gradient3.xml" value="0.186" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/ic_arrow_back_000.xml" value="0.1045" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/icon2_1.xml" value="0.1045" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/neo_sakura_success_1.xml" value="0.1045" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/rectangle_green.xml" value="0.1045" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/rectangle_greentosca.xml" value="0.186" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/shape_rectangle_20_fff.xml" value="0.186" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/shape_rectangle_8_8d92a3.xml" value="0.186" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/shape_rectangle_8_d9435e.xml" value="0.186" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/shape_rectangle_8_ffc700.xml" value="0.186" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/shape_rectangle_8_fff.xml" value="0.186" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/tab_background.xml" value="0.1095" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/tab_background2.xml" value="0.1095" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/drawable/tab_color_selector.xml" value="0.1095" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/activity_auth.xml" value="0.33" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/activity_detail_orders.xml" value="0.1" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/activity_hais.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/activity_order.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/activity_splash_screen.xml" value="0.15" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/dialog_loader.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_detail.xml" value="0.25" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_home_new_taste.xml" value="0.1" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_home_popular.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_home_recommended.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_inprogress.xml" value="0.1" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_order.xml" value="0.1" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_orders_detail.xml" value="0.25" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_pastorders.xml" value="0.67" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_payment.xml" value="0.5101721439749609" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_payment_success.xml" value="0.4704184704184704" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_profile_account.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_signin.xml" value="0.33" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_signup.xml" value="0.33" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_signup_address.xml" value="0.16878980891719744" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_signup_success.xml" value="0.25" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/fragment_signupaddress.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/item_home_horizontal.xml" value="0.5" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/item_home_vertical.xml" value="0.18" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/item_inprogress.xml" value="0.14" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/item_menu_profile.xml" value="0.2234375" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/item_pastorders.xml" value="0.25" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/layout/layout_toolbar.xml" value="0.33" />
+        <entry key="..\:/Users/uttar/AndroidStudioProjects/PradeshAdvKotlin/app/src/main/res/menu/bottom_nav_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/fragmentOrdersDetail"
+    android:id="@+id/nav_detail_orders">
+
+    <fragment android:id="@+id/fragmentOrdersDetail"
+        android:name="com.example.pradeshadvkotlin.ui.order.detailsorders.OrdersDetailFragment"
+        android:label="fragment_orders_detail"
+        tools:layout="@layout/fragment_orders_detail">
+
+        <argument android:name="data"
+            app:argType="com.example.pradeshadvkotlin.model.response.transaction.Data"
+            app:nullable="true"
+            android:defaultValue="@null"
+            />
+
+    </fragment>
+
+</navigation>
